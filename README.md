@@ -1,3 +1,3 @@
 # Analog_Clock
-Visit 👇
+Visit 👉
 https://ghugaresanika.github.io/Analog_Clock/
